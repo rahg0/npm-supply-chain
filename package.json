@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@art-ws/eslint": "^1.0.5",
     "@ctrl/deluge": "^7.2.2",
     "bestzip": "^1.1.6",
     "colors": "^1.3.3",
