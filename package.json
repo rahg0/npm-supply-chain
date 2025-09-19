@@ -1,0 +1,17 @@
+{
+  "name": "vuln-node-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ctrl/deluge": "^7.2.2",
+    "bestzip": "^1.1.6",
+    "colors": "^1.3.3",
+    "to-upper": "^1.0.1"
+  }
+}
